@@ -100,4 +100,4 @@ segmentacion-clientes-famd/
 ---
 
 **Laura Gallego Vélez** — Científica / Analista de Datos
-[LinkedIn](https://www.linkedin.com/in/laura-gallego-v%C3%A9lez-445285138/)
+[LinkedIn](https://www.linkedin.com/in/laura-gallego-v%C3%A9lez-445285138/) · [GitHub](https://github.com/lauragave8)
