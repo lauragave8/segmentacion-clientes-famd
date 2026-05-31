@@ -1,0 +1,9 @@
+# Entornos
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Sistema
+.DS_Store
+.ipynb_checkpoints/
